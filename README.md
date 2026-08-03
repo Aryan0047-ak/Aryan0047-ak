@@ -78,8 +78,20 @@ A **21 CFR Part 11 compliant** Laboratory Information System for HPLC data:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0047-ak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0047-ak&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan0047-ak&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0047-ak&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan0047-ak&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan0047-ak&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan0047-ak&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
