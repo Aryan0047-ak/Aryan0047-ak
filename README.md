@@ -7,21 +7,17 @@
 
 ---
 
-## 🧭 System Map
+## 🧭 The Engineer
 
-```mermaid
-flowchart TB
-    ME(["ARYAN<br/>AI & Full-Stack Systems Engineer"])
-
-    ME --> FS["🧩 Full-Stack<br/>React · Next.js · FastAPI · REST APIs"]
-    ME --> DC["☁️ DevOps & Cloud<br/>Docker · CI/CD · AWS · Terraform · Nginx"]
-    ME --> AO["🤖 AIOps & Reliability<br/>health checks · heartbeats · structured logs · monitoring"]
-    ME --> AI["🧠 AI Direction<br/>LLM apps · agents · intelligent automation"]
-
-    FS --> P1["🧪 Squetika Chromat<br/>compliance-grade LIS"]
-    DC --> P1
-    AO --> P1
-    FS --> P2["⚖️ QUILD<br/>patent-commons platform"]
+```ts
+const aryan = {
+  craft: "systems, not features",
+  range: ["pixel", "pipeline", "production"],
+  method: "design for failure · automate the rest · observe everything",
+  integrity: "non-negotiable — in code, in data, in delivery",
+  direction: "software → infrastructure → operations → intelligence",
+  status: "building",
+};
 ```
 
 ---
